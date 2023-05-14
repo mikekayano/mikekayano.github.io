@@ -1,6 +1,6 @@
 Credits:
 	Template:
-		HTML5up (https://html5up.net/)
+		HTML5up (html5up.net)
 
 	Icons:
 		Font Awesome (fontawesome.io)
