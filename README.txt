@@ -1,5 +1,5 @@
 Credits:
-	Template"
+	Template:
 		HTML5up (https://html5up.net/)
 
 	Icons:
